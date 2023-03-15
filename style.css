@@ -23,6 +23,10 @@ header > h1 {
     display: none;
 }
 
+.perfil_white:hover {
+    cursor: pointer;
+}
+
 header > img {
     height: 34px;
 }
